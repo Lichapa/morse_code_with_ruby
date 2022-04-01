@@ -1,4 +1,4 @@
- # Create a method to decode a Morse code character
+# Create a method to decode a Morse code character
 
 def decode_char(char)
   morse_chars_codes = {
