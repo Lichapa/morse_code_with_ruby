@@ -37,8 +37,8 @@ def decode(message)
   word.each do |w|
     mymessage << decode_word(w)
   end
-  puts mymessage = mymessage.join(' ')
+  mymessage = mymessage.join(' ')
 end
 
-decode('-- -.--   -. .- -- .')
-decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ... ')
+puts decode('-- -.--   -. .- -- .')
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ... ')
