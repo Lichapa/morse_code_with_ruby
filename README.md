@@ -36,8 +36,9 @@ run ```bundle install````
 
 👤 **Author2**
 
-- Github: [Azonkeu](https://github.com/Azonkeu)
-- LinkedIn: [Azonkeu Ornela](https://www.linkedin.com/in/azonkeu-ornela-88a14b172/)
+ GitHub: [@Kandy-Peter](https://github.com/Kandy-Peter)
+- Twitter: [@Peter-Kandi](https://www.linkedin.com/in/kandi-peter-a49590212)
+- LinkedIn: [Kandi Peter](https://twitter.com/peter_kandy)
 
 ## 🤝 Contributing
 
